@@ -1,0 +1,62 @@
+#app{
+    border:3px solid lightgrey;
+    width:80%;
+    height:530px;
+    margin: 0 auto;
+    padding:10px 10px;
+    border-radius:15px;
+}
+
+.mainCompContainer{
+    border: 3px solid lightgrey;
+    margin:0 auto;
+    width:70%;
+    height:300px;
+    margin-top:80px;
+    text-align:center;
+    border-radius:10px;
+}
+
+.navContainer{
+            border-bottom:3px solid lightgrey;
+            width:100%;
+            height: 30px;
+            background: white;
+            margin-top: 20px; 
+    
+}
+
+.appHeading{
+    color:black;
+    margin-right:100px;
+    font-size:24px;
+    font-weight:bold;
+    
+}
+
+.compLinks{
+    color:cornflowerblue;
+    font-size:18px;
+    margin-right:20px;
+    padding-right:10px;
+    text-decoration: none;
+   
+}
+
+.weatherButton{
+    width:200px;
+    height:30px;
+    color: white;
+    border:2px solid lightblue;
+    border-radius:5px;
+    margin-top:30px;
+    background-color:lightblue;
+    font-size:18px;
+}
+
+.cityInput{
+    width:200px;
+    height:30px;
+    border-radius:5px;
+}
+
